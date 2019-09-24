@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siipaenudo.youflash.de/sitemap.xml
